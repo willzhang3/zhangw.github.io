@@ -3,11 +3,11 @@ title: "Weijia's Homepage"
 ---
 
 # About Me {#about-me}
-Weijia Zhang is a Ph.D. student in Artificial Intelligence at the Hong Kong University of Science and Technology, Guangzhou, advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) and [Prof. Hao Liu](https://scholar.google.com/citations?user=66KKZR4AAAAJ). His research primarily focuses on advancing machine learning and data mining methodologies for modeling, understanding, and reasoning over spatio-temporal data (e.g., spatio-temporal graph and raster, multivariate time series) collected from the Earth system, urban environments, and human individuals. His work has enabled more effective and intelligent spatio-temporal prediction, decision-making, and AI foundation models, with broad applications spanning Earth science, smart cities, and healthcare. He has published over 10 first-author papers in leading journals and conferences, including TKDE, SIGKDD, ICML, WebConf, and filed over 30 China/U.S. patents. He is also one of 10 global recipients of the 2024 Baidu Scholarship.
+Weijia Zhang is a Ph.D. student in Artificial Intelligence at the Hong Kong University of Science and Technology, Guangzhou, advised by [Prof. Hui Xiong](https://scholar.google.com/citations?user=cVDF1tkAAAAJ) and [Prof. Hao Liu](https://scholar.google.com/citations?user=66KKZR4AAAAJ). His research primarily focuses on advancing machine learning and data mining methodologies for modeling, understanding, and reasoning over spatio-temporal data (e.g., spatio-temporal graph and raster, multivariate time series) collected from the Earth system, urban environments, and human individuals. His work has enabled more effective and intelligent spatio-temporal prediction, decision-making, and AI foundation models, with broad applications spanning Earth science, smart cities, and healthcare. He has published over 10 first-author papers in leading journals and conferences, including TKDE, SIGKDD, ICML, WebConf. He is also one of 10 global recipients of the 2024 Baidu Scholarship.
 
 <!-- # 🎉 News {#news} -->
 # News {#news}
-- *2025.11*: &nbsp; Two papers on [Extreme Weather Foundation Models](https://willzhang3.github.io/) and [Subseasonal Climate Forecasting](https://willzhang3.github.io/) were accepted by ***KDD'26***. Congrats to all co-authors 🎉! 
+- *2026.05*: &nbsp; Three papers on [Extreme Weather Foundation Models](https://willzhang3.github.io/), [Subseasonal Climate Forecasting](https://willzhang3.github.io/) and [Flood Forecasting](https://willzhang3.github.io/) were accepted by ***KDD'26***. Congrats to all co-authors 🎉! 
 - *2025.09*: &nbsp; One paper on [Foundation Models for Scientific Discovery](https://arxiv.org/abs/2510.15280) was accepted by ***NeurIPS'25***. Congrats to all co-authors 🎉! 
 - *2025.08*: &nbsp; Our work, [LLMLight](https://dl.acm.org/doi/10.1145/3690624.3709379), received the ***KDD'25*** **Audience Appreciation Award**. Congrates to all co-authors 🎉! 
 - *2025.05*: &nbsp; Three papers on [Time Series Foundation Models](https://dl.acm.org/doi/abs/10.1145/3711896.3737171), [Spatio-Temporal Forecasting](https://dl.acm.org/doi/abs/10.1145/3690624.3709323), and [LLM Agents](https://dl.acm.org/doi/abs/10.1145/3690624.3709379) were accepted by ***KDD'25***. Congrats to all co-authors 🎉! 
@@ -21,7 +21,11 @@ Weijia Zhang is a Ph.D. student in Artificial Intelligence at the Hong Kong Univ
 - *2024.05*: &nbsp; One paper on [Time Series Forecasting](https://proceedings.mlr.press/v235/zhang24bw.html) was accepted by ***ICML'24***. Congrats to all co-authors 🎉! 
 
 <!-- # 📝 Publications {#publications} -->
-# Publications {#publications}
+# Publications {#publications} 
+\* Equal contribution, &dagger; Corresponding author. 
+
+- **[KDD'26]** Jianping Zhu*, **Weijia Zhang***, Hao Liu, Bo Jin, Xiaopeng Wei, Hui Xiong. *TIDE: Static-Context Guided Prompt Retrieval for Flood Inundation Forecasting under Missing Data*. In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea, 2026. 
+
 - **[KDD'26]** Hang Ni, **Weijia Zhang**, Hao Liu. *UniExtreme: A Universal Foundation Model for Extreme Weather Forecasting*. In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea, 2026. 
 
 - **[KDD'26]** Tengfei Lyu, **Weijia Zhang**, Hao Liu. *Physics-Informed Teleconnection-Aware Transformer for Global Subseasonal-to-Seasonal Forecasting*. In Proceedings of the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining, Jeju, Korea, 2026. 
