@@ -94,7 +94,7 @@ Weijia Zhang is a Ph.D. student in Artificial Intelligence at the Hong Kong Univ
 
 <!-- # 📝 Services {#services} -->
 # Services {#services}
-- Program Committee/Reviewer for KDD, ICML, NeurIPS, ICLR, AAAI, TMC, TNNLS, TKDD,
+- Program Committee/Reviewer for KDD, ICML, NeurIPS, ICLR, AAAI, TKDE, TMC, TNNLS, TKDD,
 TIST, TNSE, etc.
 - KDD’25 Outstanding Reviewer (Top 10%)
 - Contributor to *Encyclopedia of GIS (third edition)*
